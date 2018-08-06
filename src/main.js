@@ -1,7 +1,7 @@
 /* 
  * Cursor
  * 
- * Override as much of the default cursor behaviour as possible
+ * A class that allows you to chnage the default cursor in your website
  * 
  * @param String base64Image The image to use as the cursors
  */
