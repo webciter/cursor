@@ -26,7 +26,7 @@ The cursor image must be the exact dimensions of 1088x32 pixels with png transpa
 
 Unfinished Cursor Image
 
-<img src="cursors/default.png" style="width: 1088px; height: 32px;" />
+<img src="https://github.com/webciter/cursor/blob/master/src/cursors/default.png" style="width: 1088px; height: 32px;" />
 
 
 
